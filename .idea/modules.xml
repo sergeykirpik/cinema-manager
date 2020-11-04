@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Avoid NPE/Cinema_Room_Manager.Problems-Avoid_NPE.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Out of bounds_/Cinema_Room_Manager.Problems-Out_of_bounds_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Return empty string when argument is null/Cinema_Room_Manager.Problems-Return_empty_string_when_argument_is_null.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
